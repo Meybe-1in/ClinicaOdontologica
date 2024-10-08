@@ -2,7 +2,9 @@
 # Clinica Odontológica - Gestión de Turnos y Pacientes
 Este proyecto es una aplicación web para la gestión de una clínica odontológica. Permite gestionar odontólogos, pacientes y la asignación de turnos de manera eficiente, teniendo en cuenta la disponibilidad de los odontólogos y sus horarios de trabajo.
 
+## Demo
 
+[![Watch the video](https://img.youtube.com/vi/367Gy9VvPtY/hqdefault.jpg)](https://www.youtube.com/watch?v=367Gy9VvPtY)
 
 
 ## Características
